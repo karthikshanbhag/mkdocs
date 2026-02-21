@@ -83,7 +83,7 @@ Quantizer(
 
 ## Still stuck?
 
-Open an issue on [GitHub](https://github.com/yourusername/qwodel/issues) with:
+Open an issue on [GitHub](https://github.com/Qwodel/qwodel/issues) with:
 - Your OS and Python version
 - The full error traceback
 - The command or code you ran
