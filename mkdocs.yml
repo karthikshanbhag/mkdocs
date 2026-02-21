@@ -1,8 +1,8 @@
 site_name: Qwodel Documentation
 site_description: Production-grade model quantization for Python.
-site_url: https://qwodel.readthedocs.io/
-repo_url: https://github.com/yourusername/qwodel
-repo_name: Qwodel
+site_url: https://docs.qwodel.com/
+repo_url: https://github.com/Qwodel/qwodel
+repo_name: qwodel
 
 theme:
   name: material
